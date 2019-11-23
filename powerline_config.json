@@ -15,10 +15,11 @@
                         },
                         {
                                 "function": "powerline.segments.common.sys.cpu_load_percent",
-                                "priority": 50
+                                "priority": 40
                         },
                         {
-                                "function": "powerline.segments.common.net.network_load"
+                                "function": "powerline.segments.common.net.network_load",
+                                "priority": 60
                         },
                         {
                                 "function": "powerline.segments.common.time.date",
