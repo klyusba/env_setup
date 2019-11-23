@@ -20,4 +20,6 @@ pip isntall psutil
 
 pip install powerline-mem-segment
 
+pip install powerline-gitstatus
+
 run: powerline-daemon
