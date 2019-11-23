@@ -1,0 +1,13 @@
+prefix: Ctrl+a
+
+with suffix:
+d - detach
+c - create
+0...9 - goto
+p - goto next by number
+n - goto prev by number
+l - goto prev active
+% - divide by vert line
+" - devide by horiz line
+x - close
+arrows - move upon panes
