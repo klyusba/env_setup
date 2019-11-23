@@ -16,3 +16,5 @@ https://github.com/powerline/fonts/tree/master/DejaVuSansMono
 
 pip isntall psutil
 pip install powerline-mem-segment
+
+run: powerline-daemon
