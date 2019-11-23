@@ -14,3 +14,5 @@ add source *powerline/bindings/* to confings
 For Putty only. Install font on home client:
 https://github.com/powerline/fonts/tree/master/DejaVuSansMono
 
+pip isntall psutil
+pip install powerline-mem-segment
