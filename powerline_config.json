@@ -10,12 +10,12 @@
         "segments": {
                 "right": [
                         {
-                                "function": "powerlinemem.mem_usage.mem_usage",
-                                "priority": 50
-                        },
-                        {
                                 "function": "powerline.segments.common.sys.cpu_load_percent",
                                 "priority": 40
+                        },
+                        {
+                                "function": "powerlinemem.mem_usage.mem_usage",
+                                "priority": 50
                         },
                         {
                                 "function": "powerline.segments.common.net.network_load",
